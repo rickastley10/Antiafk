@@ -10,6 +10,8 @@ def s():
     keyboard.press('s')
     time.sleep(1)
     keyboard.release('s')
+
+input()
 while 1 == 1:
     time.sleep(5)
     w()
