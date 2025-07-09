@@ -11,7 +11,7 @@ def s():
     time.sleep(1)
     keyboard.release('s')
 
-input()
+input('press anything to start: ')
 while 1 == 1:
     time.sleep(5)
     w()
